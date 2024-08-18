@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569173776 source:c:\users\gleiser tariny\desktop\aed2\tudo sobre arvores\projarvoreavl\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1569173776 c:\users\gleiser tariny\desktop\aed2\tudo sobre arvores\projarvoreavl\arvoreavl.h
+
+1569173776 source:c:\users\gleiser tariny\desktop\aed2\tudo sobre arvores\projarvoreavl\testaavl.cpp
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
