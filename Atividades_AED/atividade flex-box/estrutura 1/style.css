@@ -1,0 +1,43 @@
+body{
+  padding: 0;
+  margin: 1;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: white;
+}
+
+.layout{
+  display: flex;
+  flex-direction: column;
+}
+
+header, footer{
+  background-color: DeepSkyBlue;
+  height: 50px;
+}
+
+section{
+  display: flex;
+  min-height: calc(100vh - 100px);
+}
+
+nav{
+  background-color: MediumSpringGreen;
+  flex-grow: 2;
+}
+
+aside{
+  background-color: DeepPink;
+  flex-grow: 1;
+}
+
+article{
+  flex-grow: 6;
+  height: auto;
+  /*order: -1;*/
+}
+
+h1{
+  margin: 40px;
+  color: gray;
+}
